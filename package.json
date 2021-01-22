@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "LOCAL_DEV_URL=localhost:2999 next dev -p 2999",
+    "dev": "LOCAL_DEV_URL=localhost next dev -p 2999",
     "build": "next build",
     "start": "next start"
   },
